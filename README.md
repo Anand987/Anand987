@@ -2,6 +2,8 @@
 
 ## I am Front-end Developer.
 
+[![Anand987 github stats](https://github-readme-stats.vercel.app/api?username=Anand987&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Anand987/Anand987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
