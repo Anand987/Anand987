@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-## I am Front-end Developer.
+I am software engineer. follow me [@anand987](github.com/Anand987).
+
+I like to develop web applications, create UI/UX design for web and mobile.
+
+I live in India :india:.
 
 [![Anand987 github stats](https://github-readme-stats.vercel.app/api?username=Anand987&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
