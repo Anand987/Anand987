@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am software engineer. follow me [@anand987](github.com/Anand987).
+I am software engineer. follow me [@anand987](https://github.com/Anand987).
 
 I like to develop web applications, create UI/UX design for web and mobile.
 
